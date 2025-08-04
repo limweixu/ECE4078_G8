@@ -17,3 +17,9 @@ How to run the PiBot
 4. In PiBot folder cmd
    i. PiBot\scripts\activate
    ii.python operate.py --ip 192.168.137.63
+
+
+M1 Wheel Calibration
+0.4 - 1.8s
+0.45 - 1.65s
+0.5 - 1.5s
