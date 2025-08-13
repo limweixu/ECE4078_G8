@@ -10,16 +10,12 @@ How to run the PiBot
    Password: sayihensem
 
 3. In Windows cmd
-   i. ssh jasontootie@192.168.137.136
+   i. ssh jasontootie@192.168.137.30
    ii. cd ece4078bot
    iii. python listen.py
 
 4. In PiBot folder cmd
    i. PiBot\scripts\activate
-   ii.python operate.py --ip 192.168.137.136
+   ii.python operate.py --ip 192.168.137.30
 
 
-M1 Wheel Calibration
-0.4 - 1.8s
-0.45 - 1.65s
-0.5 - 1.5s
